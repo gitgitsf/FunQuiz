@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Fun Quiz</string>
+    <string name="text_welcome">Welcome to the \n Trivia Challenge!</string>
+    <string name="text_quiz_instruction">You will be presented \n with 10 Ture or False \n Questions.</string>
+    <string name="text_score_100">Can you score 100%?</string>
+    <string name="text_btn_begin">BEGIN</string>
+    <string name="text_score">You scored \n</string>
+
+
+    <string name="title_welcome">Welcome To Fun Quiz </string>
+    <string name="title_quiz">Quiz </string>
+    <string name="title_result">Quiz Result </string>
+    <string name="text_btn_play_again">PLAY AGAIN</string>
+
+
+</resources>
